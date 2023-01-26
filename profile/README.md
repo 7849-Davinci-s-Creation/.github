@@ -1,8 +1,3 @@
-# Team 7849 Davinci's Creation
-Hello and welcome to 7849's github.
-
-Here you will find all of our projects related to FRC. 
-
 ```⠀
                                            _____ ___  _  _   ___                                                           
                                           |___  ( _ )| || | / _ \                                                          
@@ -65,6 +60,6 @@ Here you will find all of our projects related to FRC.
                 ⠀⠀⠀⠀⠀⠉⠛⠛⠛⠋⠉⣿⣿⢾⣟⣿⡾⣽⢷⣯⣟⡷⣯⣟⣷⢯⡿⣽⣤⣾⣟⣷⣻⣞⡷⣯⢿⣽⣻⣞⣿⣽⣿⡇⠀⠀⠀⠀⠀⣠⣶⣿⡇⠀⠀⠁⠀⢁⣉⣿⣿⣟⣾
                 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣻⣿⣿⢯⣿⣽⢯⣟⣾⣽⣻⢷⣻⣞⡿⣽⢯⣟⡾⣽⣞⡷⣯⢿⣽⣻⢾⣽⡿⣾⣽⣿⡇⠀⠀⢀⣤⣾⣿⣿⣽⣿⢀⣠⣴⣾⡿⣿⡿⣏⢻⠟
                 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢘⣿⣯⢿⣞⣿⢯⣟⣾⣳⢯⣿⣳⢯⣟⣯⢿⣞⣿⣳⢯⡿⣽⣯⢷⣻⢯⣿⢿⣳⣿⣿⠁⢀⣴⣿⡿⠿⠷⠛⠊⠉⢸⣿⣽⣾⣿⣳⢿⡿⡸⠀
-                ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠿⠿⠿⠯⠿⢯⣟⣾⣽⣻⣾⡽⣯⣟⣾⣯⣟⣾⣽⣯⣟⣷⣯⡿⠯⠿⠿⠛⠛⠛⠃⠀⠛⠉⠀⠀⠀⠀⠀⠀⠀⠈⠛⠚⠛⠚⠛⠫⠋⠀⠀```
-
-
+                ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠿⠿⠿⠯⠿⢯⣟⣾⣽⣻⣾⡽⣯⣟⣾⣯⣟⣾⣽⣯⣟⣷⣯⡿⠯⠿⠿⠛⠛⠛⠃⠀⠛⠉⠀⠀⠀⠀⠀⠀⠀⠈⠛⠚⠛⠚⠛⠫⠋⠀⠀
+```
+![alt text](https://github.com/7849-Davinci-s-Creation/.github/blob/main/image000000.jpg?raw=true)
